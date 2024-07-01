@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2024-07-01 09:12:50 +0000",
       "minecraft:snowy_slopes": "2024-06-10 19:51:49 +0000",
       "minecraft:beach": "2024-06-10 19:56:46 +0000",
       "minecraft:dark_forest": "2024-06-30 20:37:37 +0000",
@@ -22,10 +23,12 @@
       "minecraft:windswept_forest": "2024-06-30 20:36:13 +0000",
       "minecraft:ocean": "2024-06-10 19:58:58 +0000",
       "minecraft:cherry_grove": "2024-06-09 18:53:23 +0000",
+      "minecraft:sunflower_plains": "2024-07-01 09:14:49 +0000",
       "minecraft:grove": "2024-06-10 19:51:57 +0000",
       "minecraft:swamp": "2024-06-30 20:34:08 +0000",
       "minecraft:meadow": "2024-06-09 18:04:42 +0000",
       "minecraft:birch_forest": "2024-06-30 20:18:24 +0000",
+      "minecraft:savanna": "2024-07-01 09:11:57 +0000",
       "minecraft:bamboo_jungle": "2024-06-30 20:38:35 +0000",
       "minecraft:plains": "2024-06-09 17:40:15 +0000"
     },
@@ -2263,12 +2266,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/brown_dye": {
-    "criteria": {
-      "has_cocoa_beans": "2024-06-30 20:42:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_lily_of_the_valley": "2024-06-30 20:15:58 +0000"
@@ -2281,12 +2278,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2024-06-30 20:42:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2024-06-30 20:38:35 +0000"
@@ -2296,6 +2287,54 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2024-06-30 20:38:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-06-30 20:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-06-30 20:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-07-01 09:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-07-01 09:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-07-01 09:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-07-01 09:20:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-07-01 09:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-07-01 09:20:41 +0000"
     },
     "done": true
   },
