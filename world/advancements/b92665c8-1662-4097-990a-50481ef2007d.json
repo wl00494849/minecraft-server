@@ -9,13 +9,22 @@
     "criteria": {
       "minecraft:flower_forest": "2024-06-10 06:27:59 +0000",
       "minecraft:snowy_slopes": "2024-06-09 18:54:47 +0000",
+      "minecraft:dark_forest": "2024-07-02 17:01:05 +0000",
       "minecraft:forest": "2024-06-09 18:04:05 +0000",
-      "minecraft:cherry_grove": "2024-06-09 18:47:30 +0000",
+      "minecraft:mangrove_swamp": "2024-07-02 17:10:38 +0000",
+      "minecraft:sparse_jungle": "2024-07-02 16:54:30 +0000",
       "minecraft:river": "2024-06-09 18:04:49 +0000",
-      "minecraft:grove": "2024-06-10 18:45:38 +0000",
-      "minecraft:meadow": "2024-06-10 06:21:11 +0000",
       "minecraft:dripstone_caves": "2024-06-10 18:04:58 +0000",
       "minecraft:frozen_peaks": "2024-06-26 17:25:38 +0000",
+      "minecraft:old_growth_birch_forest": "2024-07-02 16:56:02 +0000",
+      "minecraft:windswept_forest": "2024-07-02 16:56:38 +0000",
+      "minecraft:cherry_grove": "2024-06-09 18:47:30 +0000",
+      "minecraft:sunflower_plains": "2024-07-02 17:27:07 +0000",
+      "minecraft:grove": "2024-06-10 18:45:38 +0000",
+      "minecraft:swamp": "2024-07-02 17:15:22 +0000",
+      "minecraft:meadow": "2024-06-10 06:21:11 +0000",
+      "minecraft:savanna": "2024-07-02 17:26:54 +0000",
+      "minecraft:bamboo_jungle": "2024-07-02 17:03:21 +0000",
       "minecraft:plains": "2024-06-09 17:38:36 +0000"
     },
     "done": false
@@ -248,6 +257,7 @@
       "apple": "2024-06-09 18:56:12 +0000",
       "pufferfish": "2024-06-10 17:32:17 +0000",
       "cooked_chicken": "2024-06-09 19:59:02 +0000",
+      "honey_bottle": "2024-07-03 07:41:57 +0000",
       "cooked_mutton": "2024-06-09 17:59:40 +0000",
       "cooked_cod": "2024-06-10 16:26:23 +0000",
       "salmon": "2024-06-10 06:30:06 +0000",
@@ -2149,6 +2159,234 @@
   "minecraft:recipes/decorations/pink_banner": {
     "criteria": {
       "has_pink_wool": "2024-06-30 19:25:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-07-02 16:35:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-07-02 16:35:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-07-02 16:35:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-07-02 16:35:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-07-02 16:35:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-07-02 16:35:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-07-02 16:35:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-07-02 16:35:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-07-02 16:35:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-07-02 16:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-07-02 16:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-07-02 16:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-07-02 16:56:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-07-02 16:56:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-07-02 16:56:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-07-02 16:56:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-07-02 17:01:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-07-02 17:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-07-02 17:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-07-02 17:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-07-02 17:05:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-07-02 17:05:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-07-02 17:05:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2024-07-02 17:10:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2024-07-03 07:41:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-07-03 07:41:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-07-03 17:32:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-07-03 17:32:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-07-06 10:41:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-07-06 11:13:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-07-06 11:13:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2024-07-06 11:13:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-07-06 11:13:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2024-07-06 11:13:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-07-06 11:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-07-06 11:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-07-06 11:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-07-06 11:16:43 +0000"
     },
     "done": true
   },
