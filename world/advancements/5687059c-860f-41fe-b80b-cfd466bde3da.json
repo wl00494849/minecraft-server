@@ -3275,5 +3275,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crafter": {
+    "criteria": {
+      "has_the_recipe": "2024-07-31 12:50:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
