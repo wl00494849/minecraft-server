@@ -370,3 +370,258 @@ Starting net.minecraft.server.Main
 [00:35:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3178ms or 63 ticks behind
 [00:35:48] [Server thread/INFO]: Alpha851027 lost connection: Disconnected
 [00:35:48] [Server thread/INFO]: Alpha851027 left the game
+[00:36:47] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:19:04] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:287) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:345) ~[?:?]
+	at java.base/java.io.BufferedInputStream.implRead(BufferedInputStream.java:420) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:399) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:350) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:393) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:217) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:171) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:188) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:160) ~[?:?]
+	at java.base/java.io.BufferedReader.implReadLine(BufferedReader.java:370) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:347) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:436) ~[?:?]
+	at aqr$1.run(SourceFile:102) [server-1.21.5.jar:?]
+Error: Invalid or corrupt jarfile server.jar
+Starting org.bukkit.craftbukkit.Main
+2025-06-10T17:54:40.145935751Z ServerMain WARN Advanced terminal features are not available in this environment
+[01:54:41 INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.10; Ubuntu null) on Linux 6.11.0-1013-raspi (aarch64)
+[01:54:41 INFO]: [bootstrap] Loading Paper 1.21.5-112-main@519e422 (2025-06-09T09:53:25Z) for Minecraft 1.21.5
+[01:54:43 INFO]: [PluginInitializerManager] Initializing plugins...
+[01:54:44 INFO]: [PluginInitializerManager] Initialized 0 plugins
+[01:55:09 INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:55:22 INFO]: Loaded 1373 recipes
+[01:55:22 INFO]: Loaded 1484 advancements
+[01:55:23 INFO]: Starting minecraft server version 1.21.5
+[01:55:23 INFO]: Loading properties
+[01:55:23 INFO]: This server is running Paper version 1.21.5-112-main@519e422 (2025-06-09T09:53:25Z) (Implementing API version 1.21.5-R0.1-SNAPSHOT)
+[01:55:23 INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[01:55:23 INFO]: Server Ping Player Sample Count: 12
+[01:55:23 INFO]: Using 4 threads for Netty based IO
+[01:55:27 INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[01:55:27 INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[01:55:28 INFO]: Default game type: SURVIVAL
+[01:55:28 INFO]: Generating keypair
+[01:55:29 INFO]: Starting Minecraft server on *:25565
+[01:55:29 INFO]: Using epoll channel type
+[01:55:29 INFO]: Paper: Using libdeflate (Linux aarch64) compression from Velocity.
+[01:55:29 INFO]: Paper: Using OpenSSL 3.x.x (Linux aarch64) cipher from Velocity.
+[01:55:29 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:55:29 INFO]: Preparing level "world"
+[01:55:32 INFO]: Preparing start region for dimension minecraft:overworld
+[01:55:33 INFO]: Preparing spawn area: 0%
+[01:55:33 INFO]: Preparing spawn area: 0%
+[01:55:33 INFO]: Preparing spawn area: 0%
+[01:55:36 INFO]: Preparing spawn area: 0%
+[01:55:36 INFO]: Preparing spawn area: 0%
+[01:55:36 INFO]: Preparing spawn area: 0%
+[01:55:36 INFO]: Preparing spawn area: 0%
+[01:55:36 INFO]: Preparing spawn area: 0%
+[01:55:36 INFO]: Preparing spawn area: 0%
+[01:55:36 INFO]: Preparing spawn area: 0%
+[01:55:37 INFO]: Preparing spawn area: 0%
+[01:55:37 INFO]: Time elapsed: 5367 ms
+[01:55:37 INFO]: Preparing start region for dimension minecraft:the_nether
+[01:55:37 INFO]: Preparing spawn area: 0%
+[01:55:38 INFO]: Preparing spawn area: 2%
+[01:55:38 INFO]: Preparing spawn area: 71%
+[01:55:38 INFO]: Time elapsed: 1057 ms
+[01:55:38 INFO]: Preparing start region for dimension minecraft:the_end
+[01:55:38 INFO]: Preparing spawn area: 0%
+[01:55:39 INFO]: Time elapsed: 446 ms
+[01:55:40 INFO]: [spark] Starting background profiler...
+[01:55:40 INFO]: Done preparing level "world" (11.064s)
+[01:55:40 INFO]: Running delayed init tasks
+[01:55:40 INFO]: Done (63.194s)! For help, type "help"
+[01:55:42 INFO]: UUID of player Alpha851027 is b92665c8-1662-4097-990a-50481ef2007d
+[01:55:44 INFO]: [93mAlpha851027 joined the game[0m
+[01:55:44 INFO]: Alpha851027[/125.231.202.62:49725] logged in with entity id 88 at ([world]290.5, 85.0, 118.5)
+[01:55:44 WARN]: Can't keep up! Is the server overloaded? Running 3601ms or 72 ticks behind
+[01:56:25 WARN]: Can't keep up! Is the server overloaded? Running 25384ms or 507 ticks behind
+[01:56:44 WARN]: Can't keep up! Is the server overloaded? Running 3928ms or 78 ticks behind
+[01:58:18 WARN]: Can't keep up! Is the server overloaded? Running 2613ms or 52 ticks behind
+[02:02:13 INFO]: Alpha851027 lost connection: Disconnected
+[02:02:13 INFO]: [93mAlpha851027 left the game[0m
+[02:03:13 INFO]: Server empty for 60 seconds, pausing
+[02:24:56 INFO]: Stopping the server
+[02:24:56 INFO]: Stopping server
+[02:24:56 INFO]: Saving players
+[02:24:56 INFO]: Saving worlds
+[02:24:56 INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:24:56 INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[02:24:56 INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[02:24:56 INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[02:24:57 INFO]: [ChunkHolderManager] Saved 0 block chunks, 168 entity chunks, 0 poi chunks in world 'world' in 0.43s
+[02:24:57 INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[02:24:57 INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[02:24:57 INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:24:57 INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[02:24:57 INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[02:24:57 INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[02:24:57 INFO]: [ChunkHolderManager] Saved 0 block chunks, 47 entity chunks, 0 poi chunks in world 'world_nether' in 0.11s
+[02:24:57 INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[02:24:57 INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[02:24:57 INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[02:24:57 INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[02:24:57 INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[02:24:57 INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[02:24:57 INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[02:24:57 INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[02:24:57 INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[02:24:57 INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:24:57 INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:24:57 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:24:57 INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:24:57 INFO]: Waiting for all RegionFile I/O tasks to complete...
+[02:24:57 INFO]: All RegionFile I/O tasks to complete
+[02:24:57 INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[02:24:57 INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+Starting org.bukkit.craftbukkit.Main
+2025-06-10T18:25:21.468700061Z ServerMain WARN Advanced terminal features are not available in this environment
+[02:25:23 INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.10; Ubuntu null) on Linux 6.11.0-1013-raspi (aarch64)
+[02:25:23 INFO]: [bootstrap] Loading Paper 1.21.5-112-main@519e422 (2025-06-09T09:53:25Z) for Minecraft 1.21.5
+[02:25:24 INFO]: [PluginInitializerManager] Initializing plugins...
+[02:25:25 INFO]: [PluginInitializerManager] Initialized 0 plugins
+[02:25:51 INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:26:03 INFO]: Loaded 1373 recipes
+[02:26:03 INFO]: Loaded 1484 advancements
+[02:26:04 INFO]: Starting minecraft server version 1.21.5
+[02:26:04 INFO]: Loading properties
+[02:26:04 INFO]: This server is running Paper version 1.21.5-112-main@519e422 (2025-06-09T09:53:25Z) (Implementing API version 1.21.5-R0.1-SNAPSHOT)
+[02:26:04 INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[02:26:05 INFO]: Server Ping Player Sample Count: 12
+[02:26:05 INFO]: Using 4 threads for Netty based IO
+[02:26:08 INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[02:26:08 INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[02:26:10 INFO]: Default game type: SURVIVAL
+[02:26:10 INFO]: Generating keypair
+[02:26:10 INFO]: Starting Minecraft server on *:25565
+[02:26:10 INFO]: Using epoll channel type
+[02:26:10 INFO]: Paper: Using libdeflate (Linux aarch64) compression from Velocity.
+[02:26:10 INFO]: Paper: Using OpenSSL 3.x.x (Linux aarch64) cipher from Velocity.
+[02:26:11 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:26:11 INFO]: Preparing level "world"
+[02:26:13 INFO]: Preparing start region for dimension minecraft:overworld
+[02:26:14 INFO]: Preparing spawn area: 0%
+[02:26:14 INFO]: Preparing spawn area: 0%
+[02:26:14 INFO]: Preparing spawn area: 0%
+[02:26:18 INFO]: Preparing spawn area: 0%
+[02:26:18 INFO]: Preparing spawn area: 0%
+[02:26:18 INFO]: Preparing spawn area: 0%
+[02:26:18 INFO]: Preparing spawn area: 0%
+[02:26:18 INFO]: Preparing spawn area: 0%
+[02:26:18 INFO]: Preparing spawn area: 0%
+[02:26:18 INFO]: Preparing spawn area: 0%
+[02:26:18 INFO]: Preparing spawn area: 0%
+[02:26:19 INFO]: Time elapsed: 5348 ms
+[02:26:19 INFO]: Preparing start region for dimension minecraft:the_nether
+[02:26:19 INFO]: Preparing spawn area: 0%
+[02:26:19 INFO]: Preparing spawn area: 2%
+[02:26:20 INFO]: Preparing spawn area: 28%
+[02:26:20 INFO]: Time elapsed: 1256 ms
+[02:26:20 INFO]: Preparing start region for dimension minecraft:the_end
+[02:26:20 INFO]: Preparing spawn area: 0%
+[02:26:20 INFO]: Time elapsed: 425 ms
+[02:26:21 INFO]: [spark] Starting background profiler...
+[02:26:22 INFO]: Done preparing level "world" (11.104s)
+[02:26:22 INFO]: Running delayed init tasks
+[02:26:22 INFO]: Done (63.865s)! For help, type "help"
+[02:27:19 INFO]: [91mUnknown or incomplete command, see below for error
+[37m[4m[91mls[0m[3m[91m<--[HERE][0m
+[02:27:21 INFO]: Stopping the server
+[02:27:21 INFO]: Stopping server
+[02:27:21 INFO]: Saving players
+[02:27:21 INFO]: Saving worlds
+[02:27:21 INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:27:21 INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[02:27:21 INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[02:27:21 INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[02:27:23 INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world' in 2.50s
+[02:27:23 INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[02:27:23 INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[02:27:23 INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:27:23 INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[02:27:23 INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[02:27:23 INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[02:27:24 INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.99s
+[02:27:24 INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[02:27:24 INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[02:27:24 INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[02:27:25 INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[02:27:25 INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[02:27:25 INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[02:27:25 INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.22s
+[02:27:25 INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[02:27:25 INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[02:27:25 INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:27:25 INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:27:25 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:27:25 INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:27:25 INFO]: Waiting for all RegionFile I/O tasks to complete...
+[02:27:25 INFO]: All RegionFile I/O tasks to complete
+[02:27:25 INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[02:27:25 INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+Starting org.bukkit.craftbukkit.Main
+2025-06-10T18:32:01.559344027Z ServerMain WARN Advanced terminal features are not available in this environment
+[02:32:03 INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.10; Ubuntu null) on Linux 6.11.0-1013-raspi (aarch64)
+[02:32:03 INFO]: [bootstrap] Loading Paper 1.21.5-112-main@519e422 (2025-06-09T09:53:25Z) for Minecraft 1.21.5
+[02:32:04 INFO]: [PluginInitializerManager] Initializing plugins...
+[02:32:05 INFO]: [PluginInitializerManager] Initialized 0 plugins
+[02:32:30 INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:32:43 INFO]: Loaded 1373 recipes
+[02:32:43 INFO]: Loaded 1484 advancements
+[02:32:44 INFO]: Starting minecraft server version 1.21.5
+[02:32:44 INFO]: Loading properties
+[02:32:44 INFO]: This server is running Paper version 1.21.5-112-main@519e422 (2025-06-09T09:53:25Z) (Implementing API version 1.21.5-R0.1-SNAPSHOT)
+[02:32:45 INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[02:32:45 INFO]: Server Ping Player Sample Count: 12
+[02:32:45 INFO]: Using 4 threads for Netty based IO
+[02:32:49 INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[02:32:49 INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[02:32:50 INFO]: Default game type: SURVIVAL
+[02:32:50 INFO]: Generating keypair
+[02:32:50 INFO]: Starting Minecraft server on *:25565
+[02:32:50 INFO]: Using epoll channel type
+[02:32:51 INFO]: Paper: Using libdeflate (Linux aarch64) compression from Velocity.
+[02:32:51 INFO]: Paper: Using OpenSSL 3.x.x (Linux aarch64) cipher from Velocity.
+[02:32:51 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:32:51 INFO]: Preparing level "world"
+[02:32:53 INFO]: Preparing start region for dimension minecraft:overworld
+[02:32:54 INFO]: Preparing spawn area: 0%
+[02:32:54 INFO]: Preparing spawn area: 0%
+[02:32:57 INFO]: Preparing spawn area: 0%
+[02:32:57 INFO]: Preparing spawn area: 0%
+[02:32:57 INFO]: Preparing spawn area: 0%
+[02:32:57 INFO]: Preparing spawn area: 0%
+[02:32:57 INFO]: Preparing spawn area: 0%
+[02:32:57 INFO]: Preparing spawn area: 0%
+[02:32:57 INFO]: Preparing spawn area: 0%
+[02:32:58 INFO]: Preparing spawn area: 0%
+[02:32:58 INFO]: Time elapsed: 4871 ms
+[02:32:58 INFO]: Preparing start region for dimension minecraft:the_nether
+[02:32:58 INFO]: Preparing spawn area: 0%
+[02:32:59 INFO]: Preparing spawn area: 2%
+[02:32:59 INFO]: Preparing spawn area: 12%
+[02:33:00 INFO]: Time elapsed: 1407 ms
+[02:33:00 INFO]: Preparing start region for dimension minecraft:the_end
+[02:33:00 INFO]: Preparing spawn area: 0%
+[02:33:00 INFO]: Preparing spawn area: 34%
+[02:33:00 INFO]: Time elapsed: 607 ms
+[02:33:01 INFO]: [spark] Starting background profiler...
+[02:33:02 INFO]: Done preparing level "world" (10.803s)
+[02:33:02 INFO]: Running delayed init tasks
+[02:33:02 INFO]: Done (63.374s)! For help, type "help"
+[02:33:04 INFO]: UUID of player Alpha851027 is b92665c8-1662-4097-990a-50481ef2007d
+[02:33:08 INFO]: [93mAlpha851027 joined the game[0m
+[02:33:08 INFO]: Alpha851027[/192.168.1.102:53887] logged in with entity id 50 at ([world]295.16808114522416, 69.0, -82.32382072431727)
+[02:33:09 WARN]: Can't keep up! Is the server overloaded? Running 2933ms or 58 ticks behind
+[02:33:39 WARN]: Can't keep up! Is the server overloaded? Running 15037ms or 300 ticks behind
+[02:42:08 INFO]: Alpha851027 lost connection: Disconnected
+[02:42:09 INFO]: [93mAlpha851027 left the game[0m
+[02:43:08 INFO]: Server empty for 60 seconds, pausing
