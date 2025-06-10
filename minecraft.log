@@ -1,0 +1,365 @@
+Starting net.minecraft.server.Main
+[16:19:56] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:20:08] [ServerMain/INFO]: Loaded 1373 recipes
+[16:20:08] [ServerMain/INFO]: Loaded 1484 advancements
+[16:20:09] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[16:20:09] [Server thread/INFO]: Loading properties
+[16:20:09] [Server thread/INFO]: Default game type: SURVIVAL
+[16:20:09] [Server thread/INFO]: Generating keypair
+[16:20:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:20:10] [Server thread/INFO]: Using epoll channel type
+[16:20:10] [Server thread/INFO]: Preparing level "world"
+[16:20:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:20:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:20:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:20:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:20:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:20:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:20:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:20:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:20:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:20:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:20:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:20:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:20:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:20:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:20:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:20:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:20:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:20:20] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[16:20:22] [Server thread/INFO]: Time elapsed: 9309 ms
+[16:20:22] [Server thread/INFO]: Done (11.581s)! For help, type "help"
+[16:21:21] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:23:05] [User Authenticator #1/INFO]: UUID of player Alpha851027 is b92665c8-1662-4097-990a-50481ef2007d
+[16:23:08] [Server thread/INFO]: Alpha851027[/125.231.202.62:58133] logged in with entity id 86 at (292.42505406676855, 85.0, 127.19410832091556)
+[16:23:08] [Server thread/INFO]: Alpha851027 joined the game
+[16:23:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3475ms or 69 ticks behind
+[16:23:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24871ms or 497 ticks behind
+[16:24:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8598ms or 171 ticks behind
+[16:24:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8529ms or 170 ticks behind
+[16:24:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5665ms or 113 ticks behind
+[16:25:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6449ms or 128 ticks behind
+[16:25:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4611ms or 92 ticks behind
+[16:26:48] [Server thread/INFO]: Alpha851027 lost connection: Disconnected
+[16:26:48] [Server thread/INFO]: Alpha851027 left the game
+[16:27:48] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:33:13] [User Authenticator #2/INFO]: UUID of player Alpha851027 is b92665c8-1662-4097-990a-50481ef2007d
+[16:33:15] [Server thread/INFO]: Alpha851027[/125.231.202.62:61634] logged in with entity id 1612 at (398.4741794410462, 91.0, 22.408706396100914)
+[16:33:15] [Server thread/INFO]: Alpha851027 joined the game
+[16:37:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[16:38:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5458ms or 109 ticks behind
+[16:38:32] [Server thread/INFO]: Villager cru['Villager'/2825, l='ServerLevel[world]', x=29.29, y=40.69, z=79.48] died, message: 'Villager was impaled on a stalagmite while fighting Zombie'
+[16:38:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7046ms or 140 ticks behind
+[16:38:38] [Server thread/INFO]: Villager cru['Villager'/2820, l='ServerLevel[world]', x=30.47, y=48.00, z=80.70] died, message: 'Villager hit the ground too hard while trying to escape Zombie'
+[16:38:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4610ms or 92 ticks behind
+[16:38:57] [Server thread/INFO]: Alpha851027 lost connection: Disconnected
+[16:38:57] [Server thread/INFO]: Alpha851027 left the game
+[16:39:00] [User Authenticator #3/INFO]: UUID of player Alpha851027 is b92665c8-1662-4097-990a-50481ef2007d
+[16:39:01] [Server thread/INFO]: Alpha851027[/125.231.202.62:61657] logged in with entity id 3092 at (127.59793942808754, 78.0, 144.12576301358956)
+[16:39:01] [Server thread/INFO]: Alpha851027 joined the game
+[16:39:09] [Server thread/INFO]: Stopping the server
+[16:39:09] [Server thread/INFO]: Stopping server
+[16:39:09] [Server thread/INFO]: Saving players
+[16:39:09] [Server thread/INFO]: Alpha851027 lost connection: Server closed
+[16:39:09] [Server thread/INFO]: Alpha851027 left the game
+[16:39:09] [Server thread/INFO]: Saving worlds
+[16:39:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:39:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:39:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:39:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:39:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:39:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:39:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+Starting net.minecraft.server.Main
+[16:40:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:40:13] [ServerMain/INFO]: Loaded 1373 recipes
+[16:40:13] [ServerMain/INFO]: Loaded 1484 advancements
+[16:40:13] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[16:40:13] [Server thread/INFO]: Loading properties
+[16:40:13] [Server thread/INFO]: Default game type: SURVIVAL
+[16:40:13] [Server thread/INFO]: Generating keypair
+[16:40:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:40:14] [Server thread/INFO]: Using epoll channel type
+[16:40:14] [Server thread/INFO]: Preparing level "world"
+[16:40:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:40:23] [User Authenticator #1/INFO]: UUID of player Alpha851027 is b92665c8-1662-4097-990a-50481ef2007d
+[16:40:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:40:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:40:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:40:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:40:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:40:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:40:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:40:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:40:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:40:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:40:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:40:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:40:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:40:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:40:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:40:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:40:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:40:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:40:24] [Worker-Main-3/INFO]: Preparing spawn area: 10%
+[16:40:26] [Server thread/INFO]: Time elapsed: 10178 ms
+[16:40:26] [Server thread/INFO]: Done (11.567s)! For help, type "help"
+[16:40:29] [Server thread/INFO]: Alpha851027[/125.231.202.62:61681] logged in with entity id 83 at (127.59793942808754, 78.0, 144.12576301358956)
+[16:40:29] [Server thread/INFO]: Alpha851027 joined the game
+[16:40:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3289ms or 65 ticks behind
+[16:41:01] [Server thread/INFO]: Villager cru['Villager'/188, l='ServerLevel[world]', x=94.70, y=77.14, z=213.71] died, message: 'Villager was slain by Zombie'
+[16:41:03] [Server thread/INFO]: Alpha851027 lost connection: Disconnected
+[16:41:03] [Server thread/INFO]: Alpha851027 left the game
+[16:41:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22164ms or 443 ticks behind
+[16:41:59] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:17:21] [Server thread/INFO]: Stopping server
+[17:17:21] [Server thread/INFO]: Saving players
+[17:17:21] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:287) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:345) ~[?:?]
+	at java.base/java.io.BufferedInputStream.implRead(BufferedInputStream.java:420) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:399) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:350) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:393) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:217) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:171) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:188) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:160) ~[?:?]
+	at java.base/java.io.BufferedReader.implReadLine(BufferedReader.java:370) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:347) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:436) ~[?:?]
+	at aqr$1.run(SourceFile:102) [server-1.21.5.jar:?]
+Starting net.minecraft.server.Main
+[17:29:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:30:08] [ServerMain/INFO]: Loaded 1373 recipes
+[17:30:08] [ServerMain/INFO]: Loaded 1484 advancements
+[17:30:09] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[17:30:09] [Server thread/INFO]: Loading properties
+[17:30:09] [Server thread/INFO]: Default game type: SURVIVAL
+[17:30:09] [Server thread/INFO]: Generating keypair
+[17:30:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:30:10] [Server thread/INFO]: Using epoll channel type
+[17:30:10] [Server thread/INFO]: Preparing level "world"
+[17:30:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:30:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:30:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:30:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:30:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:30:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:30:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:30:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:30:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:30:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:30:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:30:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:30:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:30:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:30:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:30:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:30:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:30:20] [Worker-Main-2/INFO]: Preparing spawn area: 53%
+[17:30:21] [Server thread/INFO]: Time elapsed: 9017 ms
+[17:30:21] [Server thread/INFO]: Done (11.165s)! For help, type "help"
+[17:31:21] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:32:28] [User Authenticator #1/INFO]: UUID of player Alpha851027 is b92665c8-1662-4097-990a-50481ef2007d
+[17:32:31] [Server thread/INFO]: Alpha851027[/125.231.202.62:55706] logged in with entity id 110 at (149.44625038543796, 65.9375, 137.3361398892519)
+[17:32:31] [Server thread/INFO]: Alpha851027 joined the game
+[17:32:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2409ms or 48 ticks behind
+[17:32:35] [Server thread/INFO]: Alpha851027 lost connection: Disconnected
+[17:32:35] [Server thread/INFO]: Alpha851027 left the game
+[17:32:55] [User Authenticator #2/INFO]: UUID of player Alpha851027 is b92665c8-1662-4097-990a-50481ef2007d
+[17:32:56] [Server thread/INFO]: Alpha851027[/125.231.202.62:50692] logged in with entity id 162 at (149.44625038543796, 65.9375, 137.3361398892519)
+[17:32:56] [Server thread/INFO]: Alpha851027 joined the game
+[17:32:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2128ms or 42 ticks behind
+[17:33:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23228ms or 464 ticks behind
+[17:33:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3287ms or 65 ticks behind
+[17:34:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[17:34:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8127ms or 162 ticks behind
+[17:35:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4715ms or 94 ticks behind
+[17:35:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4619ms or 92 ticks behind
+[17:35:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2956ms or 59 ticks behind
+[17:39:37] [Server thread/INFO]: Alpha851027 lost connection: Disconnected
+[17:39:37] [Server thread/INFO]: Alpha851027 left the game
+[17:40:37] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:31:43] [User Authenticator #3/INFO]: UUID of player Alpha851027 is b92665c8-1662-4097-990a-50481ef2007d
+[18:31:44] [Server thread/INFO]: Alpha851027[/125.231.202.62:55593] logged in with entity id 2481 at (373.1796617057593, 64.0, -331.3551401378632)
+[18:31:44] [Server thread/INFO]: Alpha851027 joined the game
+[18:41:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[18:41:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3567ms or 71 ticks behind
+[18:41:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5821ms or 116 ticks behind
+[18:42:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5562ms or 111 ticks behind
+[18:42:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3975ms or 79 ticks behind
+[18:42:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4354ms or 87 ticks behind
+[18:43:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5550ms or 111 ticks behind
+[18:43:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5059ms or 101 ticks behind
+[18:43:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4456ms or 89 ticks behind
+[18:44:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3926ms or 78 ticks behind
+[18:44:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4497ms or 89 ticks behind
+[18:44:52] [Server thread/INFO]: <Alpha851027> ssssssssssssw
+[18:44:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5480ms or 109 ticks behind
+[18:46:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18:52:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[18:52:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3397ms or 67 ticks behind
+[18:53:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3780ms or 75 ticks behind
+[18:53:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3095ms or 61 ticks behind
+[18:53:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3262ms or 65 ticks behind
+[18:56:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[18:56:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4557ms or 91 ticks behind
+[18:56:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5308ms or 106 ticks behind
+[18:57:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5015ms or 100 ticks behind
+[18:57:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4493ms or 89 ticks behind
+[18:57:44] [Server thread/INFO]: Alpha851027 lost connection: Disconnected
+[18:57:44] [Server thread/INFO]: Alpha851027 left the game
+[18:58:41] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:27:01] [User Authenticator #4/INFO]: UUID of player Alpha851027 is b92665c8-1662-4097-990a-50481ef2007d
+[19:27:03] [Server thread/INFO]: Alpha851027[/125.231.202.62:63927] logged in with entity id 9990 at (167.58806376744786, 66.0, 120.24450244660038)
+[19:27:03] [Server thread/INFO]: Alpha851027 joined the game
+[19:27:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19:27:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5189ms or 103 ticks behind
+[19:27:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4359ms or 87 ticks behind
+[19:28:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4321ms or 86 ticks behind
+[19:28:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3637ms or 72 ticks behind
+[19:30:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19:30:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2520ms or 50 ticks behind
+[19:30:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3890ms or 77 ticks behind
+[19:31:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3022ms or 60 ticks behind
+[19:31:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[19:32:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5126ms or 102 ticks behind
+[19:32:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4129ms or 82 ticks behind
+[19:32:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3852ms or 77 ticks behind
+[19:33:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4563ms or 91 ticks behind
+[19:33:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3050ms or 61 ticks behind
+[19:34:28] [Server thread/INFO]: Alpha851027 lost connection: Disconnected
+[19:34:28] [Server thread/INFO]: Alpha851027 left the game
+[19:35:26] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:36:01] [User Authenticator #5/INFO]: UUID of player Alpha851027 is b92665c8-1662-4097-990a-50481ef2007d
+[19:36:01] [Server thread/INFO]: Alpha851027[/125.231.202.62:64051] logged in with entity id 12078 at (203.90400833879045, 64.0, 116.54213704971578)
+[19:36:01] [Server thread/INFO]: Alpha851027 joined the game
+[19:36:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19:36:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4210ms or 84 ticks behind
+[19:36:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3438ms or 68 ticks behind
+[19:37:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3238ms or 64 ticks behind
+[19:37:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3612ms or 72 ticks behind
+[19:37:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2881ms or 57 ticks behind
+[19:37:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4172ms or 83 ticks behind
+[19:38:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3074ms or 61 ticks behind
+[19:38:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4067ms or 81 ticks behind
+[19:39:42] [Server thread/INFO]: Alpha851027 lost connection: Disconnected
+[19:39:42] [Server thread/INFO]: Alpha851027 left the game
+[19:40:42] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:39:41] [Server thread/INFO]: Stopping server
+[20:39:41] [Server thread/INFO]: Saving players
+[20:39:41] [Server thread/INFO]: Saving worlds
+[20:39:41] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:287) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:345) ~[?:?]
+	at java.base/java.io.BufferedInputStream.implRead(BufferedInputStream.java:420) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:399) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:350) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:393) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:217) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:171) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:188) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:160) ~[?:?]
+	at java.base/java.io.BufferedReader.implReadLine(BufferedReader.java:370) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:347) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:436) ~[?:?]
+	at aqr$1.run(SourceFile:102) [server-1.21.5.jar:?]
+Starting net.minecraft.server.Main
+[20:54:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:55:10] [ServerMain/INFO]: Loaded 1373 recipes
+[20:55:11] [ServerMain/INFO]: Loaded 1484 advancements
+[20:55:11] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[20:55:11] [Server thread/INFO]: Loading properties
+[20:55:11] [Server thread/INFO]: Default game type: SURVIVAL
+[20:55:11] [Server thread/INFO]: Generating keypair
+[20:55:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:55:12] [Server thread/INFO]: Using epoll channel type
+[20:55:12] [Server thread/INFO]: Preparing level "world"
+[20:55:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:55:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:55:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:55:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:55:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:55:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:55:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:55:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:55:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:55:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:55:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:55:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:55:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:55:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:55:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:55:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:55:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:55:22] [Worker-Main-1/INFO]: Preparing spawn area: 79%
+[20:55:23] [Server thread/INFO]: Time elapsed: 8903 ms
+[20:55:23] [Server thread/INFO]: Done (10.639s)! For help, type "help"
+[20:55:39] [User Authenticator #1/INFO]: UUID of player Alpha851027 is b92665c8-1662-4097-990a-50481ef2007d
+[20:55:41] [Server thread/INFO]: Alpha851027[/192.168.1.102:65113] logged in with entity id 84 at (287.34683152561195, 85.0, 122.68586825506061)
+[20:55:41] [Server thread/INFO]: Alpha851027 joined the game
+[20:55:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2659ms or 53 ticks behind
+[20:56:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25383ms or 507 ticks behind
+[20:56:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3732ms or 74 ticks behind
+[20:57:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[20:57:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7962ms or 159 ticks behind
+[20:58:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[20:58:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12181ms or 243 ticks behind
+[20:58:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4085ms or 81 ticks behind
+[20:59:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4230ms or 84 ticks behind
+[20:59:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4030ms or 80 ticks behind
+[20:59:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3003ms or 60 ticks behind
+[21:00:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2773ms or 55 ticks behind
+[21:00:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2894ms or 57 ticks behind
+[21:00:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[21:01:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21:01:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[21:01:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2888ms or 57 ticks behind
+[21:02:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3237ms or 64 ticks behind
+[21:02:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3394ms or 67 ticks behind
+[21:02:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5278ms or 105 ticks behind
+[21:03:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2553ms or 51 ticks behind
+[21:04:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[21:05:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[21:05:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
+[21:05:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2297ms or 45 ticks behind
+[21:05:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21:06:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3715ms or 74 ticks behind
+[21:06:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3313ms or 66 ticks behind
+[21:06:38] [Server thread/INFO]: Alpha851027 lost connection: Disconnected
+[21:06:38] [Server thread/INFO]: Alpha851027 left the game
+[21:07:37] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:50:36] [User Authenticator #2/INFO]: UUID of player Alpha851027 is b92665c8-1662-4097-990a-50481ef2007d
+[21:50:37] [Server thread/INFO]: Alpha851027[/125.231.202.62:50427] logged in with entity id 3444 at (188.2124757935839, 64.0, 102.06132823125053)
+[21:50:37] [Server thread/INFO]: Alpha851027 joined the game
+[21:50:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[21:51:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6150ms or 123 ticks behind
+[21:51:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3384ms or 67 ticks behind
+[21:51:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3825ms or 76 ticks behind
+[21:51:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3426ms or 68 ticks behind
+[21:52:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4056ms or 81 ticks behind
+[21:52:42] [Server thread/INFO]: Alpha851027 lost connection: Disconnected
+[21:52:42] [Server thread/INFO]: Alpha851027 left the game
+[21:53:42] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[23:49:51] [User Authenticator #3/INFO]: UUID of player Alpha851027 is b92665c8-1662-4097-990a-50481ef2007d
+[23:49:52] [Server thread/INFO]: Alpha851027[/192.168.1.102:52860] logged in with entity id 4151 at (291.9025172257113, 85.0, 120.70490432453369)
+[23:49:52] [Server thread/INFO]: Alpha851027 joined the game
+[23:50:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[23:50:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2876ms or 57 ticks behind
+[23:51:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3175ms or 63 ticks behind
+[23:51:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[23:51:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2688ms or 53 ticks behind
+[23:52:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2614ms or 52 ticks behind
+[23:52:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2906ms or 58 ticks behind
+[23:52:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[23:53:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3119ms or 62 ticks behind
+[23:53:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3685ms or 73 ticks behind
+[23:54:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[23:54:58] [Server thread/INFO]: Alpha851027 lost connection: Disconnected
+[23:54:58] [Server thread/INFO]: Alpha851027 left the game
+[23:55:57] [Server thread/INFO]: Server empty for 60 seconds, pausing
