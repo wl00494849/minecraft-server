@@ -876,3 +876,6 @@ Starting org.bukkit.craftbukkit.Main
 [02:44:51 WARN]: Can't keep up! Is the server overloaded? Running 9785ms or 195 ticks behind
 [02:50:54 WARN]: Can't keep up! Is the server overloaded? Running 5260ms or 105 ticks behind
 [03:16:06 INFO]: Villager Villager['Farmer'/339, uuid='3fc4f86e-0ae5-4ccf-b48a-26ebb1a94c63', l='ServerLevel[world]', x=117.26, y=76.25, z=126.51, cpos=[7, 7], tl=344737, v=true] died, message: 'Farmer was slain by Zombie'
+[03:35:37 INFO]: Alpha851027 lost connection: Disconnected
+[03:35:37 INFO]: [93mAlpha851027 left the game[0m
+[03:36:37 INFO]: Server empty for 60 seconds, pausing
